@@ -38,4 +38,5 @@ max_iter = 5000
 
 mejor_solucion, mejor_valor = recocido_simulado(temperatura_inicial, enfriamiento, max_iter)
 
-print(f"Mejor solución: {mejor_solucion}, con valor: {mejor_valor}")
+
+print(f"Mejor solución: {mejor_solucion}, con valor: {mejor_valor} ")
